@@ -1,10 +1,10 @@
-theme: minima
 title: My Favorite Things
+theme: minima
 author: Nabiya
 email: nabiya@uw.edu
 description: These are some of my favorite books, movies, and music.
 
 # social links
-github_username:  nabiya2002
+github_username: nabiya2002
 
 show_excerpts: true # set to false to remove excerpts on the homepage
